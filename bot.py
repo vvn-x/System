@@ -10,7 +10,7 @@ GIFS_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "gifs")
 
 # ===== إعدادات نظام الاقتراحات =====
 SUGGESTIONS_CHANNEL_ID = 1281895871897800808  # ID قناة الاقتراحات
-EMBED_COLOR = 0x89CFF0  # لون الإيمبد
+EMBED_COLOR = 0xB6392D  # لون الإيمبد
 
 intents = discord.Intents.default()
 intents.message_content = True
